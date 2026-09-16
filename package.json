@@ -11,8 +11,8 @@
     "preview": "astro preview",
     "sync": "astro sync",
     "astro": "astro",
-    "format:check": "prettier --check .",
-    "format": "prettier --write .",
+    "format:check": "prettier --check '**/*.{ts,tsx,js,jsx,mjs,cjs,json,astro}'",
+    "format": "prettier --write '**/*.{ts,tsx,js,jsx,mjs,cjs,json,astro}'",
     "lint": "eslint .",
     "to-xhs": "node scripts/md-to-xhs.js"
   },
