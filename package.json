@@ -23,7 +23,7 @@
     "@tailwindcss/vite": "^4.3.3",
     "@vercel/analytics": "^2.0.1",
     "@vercel/speed-insights": "^2.0.0",
-    "astro": "^7.3.2",
+    "astro": "^7.3.3",
     "dayjs": "^1.11.23",
     "katex": "^0.18.2",
     "lodash.kebabcase": "^4.1.1",
