@@ -1,11 +1,10 @@
 ---
-title: "Ghostty 在 macOS 上的中文渲染问题：原因与修复"
+title: "Ghostty 在 macOS 上的中文渲染问题"
 description: >-
   macOS 上 Ghostty 的中文回退会选中 90 年代的老字体，导致字大小不一、全角标点偏上。
   用 font-family 显式指定中文回退字体即可修复。
 pubDatetime: 2026-08-19
 modDatetime: 2026-08-19
-draft: true
 tags: ["guide"]
 ---
 

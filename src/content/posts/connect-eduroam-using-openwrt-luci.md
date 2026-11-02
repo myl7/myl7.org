@@ -4,7 +4,7 @@ description: >-
   网上教程很多，但都是针对命令行或定制 UI 的。本文截图记录了用默认的 LuCI web 界面连接 eduroam 这类 802.1x EAP 安全性 Wi-Fi 节点的过程，不用开命令行 SSH，只用手机都行。额外探讨了一些容易配错的选项。
 pubDatetime: 2026-07-11
 modDatetime: 2026-07-11
-tags: ["tutorial"]
+tags: ["guide"]
 ---
 
 用浏览器进入 OpenWrt web 管理界面，用顶栏打开 Network - Wireless 界面，点 Scan：
