@@ -3,6 +3,7 @@ title: Inconsistent Naming Standards of Programming Langauges for Tests, Documen
 pubDatetime: 2026-11-02
 modDatetime: 2026-11-02
 tags: ["comment"]
+description: ""
 ---
 
 I am always unsure whether I should use the singular/plural form for their directory names.
